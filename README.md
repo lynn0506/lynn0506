@@ -5,5 +5,6 @@
 
 Here are some ideas to get you started:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynn0506&layout=compact)](https://github.com/lynn0506/github-readme-stats)
+[![eunjoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynn0506)](https://github.com/anuraghazra/github-readme-stats)
+
 
